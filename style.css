@@ -61,10 +61,10 @@ body {
 	font-size: 24px;
 	color: white;
 	text-decoration: none;
-	margin-top: 75px;
 }
 #dec {
 	text-decoration: none;
+	margin-top: 50px;
 }
 @media (max-width: 1100px) {
 	.name {
